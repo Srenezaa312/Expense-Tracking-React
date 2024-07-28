@@ -26,7 +26,7 @@ This simple and intuitive app helps you manage and track your expenses efficient
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/LasithaPrabodha/expense-tracking-app-rn.git
+   git clone https://github.com/Srenezaa312/Expense-Tracking-React.git
    cd expense-tracking-app-rn
    ```
 
